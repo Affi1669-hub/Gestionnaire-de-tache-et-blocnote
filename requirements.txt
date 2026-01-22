@@ -1,0 +1,4 @@
+tkcalendar
+plyer
+reportlab
+openpyxl

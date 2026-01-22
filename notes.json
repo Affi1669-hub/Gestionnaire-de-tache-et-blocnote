@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "title": "mes mots de passe",
+    "content": "MDP Netfilx: Affi2004\nMDP Email: Littleflower1669\nMDP AUF: Affi@1669\nAffi 1234",
+    "date_created": "2025-10-26 11:32:55",
+    "date_modified": "2025-10-26 11:34:53"
+  },
+  {
+    "id": 1,
+    "title": "livre a lire",
+    "content": "les 48 lois du pouvoir\ncomment se faire des amis\nl'art de s'en battre les couilles\nl'art d'avoir toujours raison\nle pouvoir de l'effet cumuler",
+    "date_created": "2025-10-26 11:37:25",
+    "date_modified": "2025-10-26 11:37:25"
+  },
+  {
+    "id": 2,
+    "title": "app a creer",
+    "content": "Djibservice: Une app mobile pour vendre des services(reparation, couture, cuisine etc...) a Djibouti\nDjiber: Une app mobile pour commander un uber a Djibouti\nYounth4Care: Une plateforme d'engagement pour la jeunesse",
+    "date_created": "2025-10-26 11:41:08",
+    "date_modified": "2025-10-26 11:41:08"
+  }
+]
